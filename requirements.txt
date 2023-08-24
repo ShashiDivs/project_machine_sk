@@ -4,4 +4,5 @@ matplotlib
 seaborn
 Flask
 scikit-learn
+PyYAML== 6.0.1
 -e .
